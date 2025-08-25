@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "test version",
+  "pub_date": "2025-08-25T12:30:30:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUtmNTFDUjdZY0xnQlIrbENmR2g1YU81OWo5UUREelpkSlBPbStZUGtvbXA2d1ROMTgrVW1FYko1WkEwMi9Cb2xjUUw5bytaSzZ4c1ZDSlBYSkZKSjBRTWtuYWhEOWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MDgwMjk5CWZpbGU6Zm9ybWF0aW9uLW1hbmFnZXJfMC4xLjBfeDY0LXNldHVwLmV4ZQpncVUrS3RxcDNQUG9zSDhaWXFVMWNjZWFGVHlqZHZSUXZOODk2bHRwSkRtckRDZlhaN0Y5ZmZCanFKU1JWSG9kakNYWTBCbWYwRUJqTGpLT3N1bG1DZz09Cg==",
+      "url": "https://github.com/farm-er/formation-manager-releases/releases/download/v0.1.0/formation-manager_0.1.0_x64-setup.exe"
+    }
+  }
+}
