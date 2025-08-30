@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
+  "version": "1.0.0",
   "notes": "test version",
-  "pub_date": "2025-08-25T15:34:30Z",
+  "pub_date": "2025-08-30T18:57:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUtmNTFDUjdZY0hpQUd1a0xCOFlhUWh6ejdpbFJFaEk4aTRGY2VMbmQ2VkZQMnl5a0R3dVFvL2RHR2JiV2JyazFKUEw5RTFBSmxmVFZINVE0RUU5QWFHbG5CWklZQ3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MTMyNDM4CWZpbGU6Zm9ybWF0aW9uLW1hbmFnZXJfMC4xLjZfeDY0X2VuLVVTLm1zaQpOU3NDU1ByTWFWaDlPdlI3bG5aR2pZV3dKRmZLWWtud01aVkVEWVY3M05zallndEhhR0NtbVdJNTJiRnllRXBBRUx2d0RBWTJsM28vYjNsbVkwZXVCdz09Cg==",
-      "url": "https://github.com/farm-er/formation-manager-releases/releases/download/v0.1.6/formation-manager_0.1.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUtmNTFDUjdZY015UTVRbmgyZmJFcmlHZUFVSFNGalFJbERoRkVTQ3dubW8zSE82SXZsam91MEZlcVRFUmNPdlV5SEx1VGhqaW1LWTdYcWpwZEtISDJWVVhlOW9FWFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NTc1NTgyCWZpbGU6Zm9ybWF0aW9uLW1hbmFnZXJfMS4wLjBfeDY0X2VuLVVTLm1zaQo5YnppQjRYMnhONEtFWFZ0cVBPVEJKVEZVbnp0djg0YVBwdzVERzk3VUJPVlFLREpJek9qajdNZVVMMVFob1FLRUZkZmNyRzFqNXVDV29qVDFqaURDQT09Cg==",
+      "url": "https://github.com/farm-er/formation-manager-releases/releases/download/v1.0.0/formation-manager_1.0.0_x64_en-US.msi"
     }
   }
 }
